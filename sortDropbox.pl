@@ -1,3 +1,11 @@
+# Created early June of 2013 by Chelsey Baker 
+# Copy or move all photos in a Dropbox/Photos folder into another directory
+# Add this script to the directory
+# Run it! 
+# 
+# Photos are moved into directories that correspond to their date. 
+# Directories are in the format YYYY-MM-DD
+
 use warnings;
 use strict;
 
